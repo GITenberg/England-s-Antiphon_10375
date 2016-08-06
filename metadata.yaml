@@ -1,0 +1,27 @@
+_repo: England-s-Antiphon_10375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: '"I have sought to trace the course of our religious poetry from an early
+  period of our literary history."--Pref.'
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Religious poetry, English -- History and criticism'
+- GITenberg
+title: England's Antiphon
+url: http://www.gutenberg.org/ebooks/10375
